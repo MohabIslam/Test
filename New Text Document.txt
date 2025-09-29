@@ -1,0 +1,23 @@
+
+        cd /path/to/your/local/project
+
+
+        git init
+
+
+        git add .
+
+
+
+        git commit -m "Initial commit of project"
+
+
+
+        git remote add origin <your_github_repo_url>
+
+
+
+        git branch -M main
+
+
+        git push -u origin main
